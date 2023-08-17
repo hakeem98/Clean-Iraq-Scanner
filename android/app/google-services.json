@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "54553910867",
+    "project_id": "clean-iraq-d9d15",
+    "storage_bucket": "clean-iraq-d9d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54553910867:android:056981c4047fc1b63e30a6",
+        "android_client_info": {
+          "package_name": "com.example.qr_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54553910867-po3h02tnp8bos35majvdk8qfsd1gq01t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr98OVc0__R1T0AuXd77V5l6sOpZ9Gv1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54553910867-po3h02tnp8bos35majvdk8qfsd1gq01t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54553910867-jkjtd9qlaie3d2gj98upsb102fegnpes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qrScanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
